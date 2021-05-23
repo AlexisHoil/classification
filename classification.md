@@ -15,8 +15,13 @@ Phyton, C++, Java, Visual Basic
 
 ## Gold- Answer the following questions
 ### 1.Describe three differences between low-level language and high-level languages?
-| syntax | description |
+| High-level language | Low-level language |
 | ----------- | ---------- |
-| High-Level languague | Low-level language |
 | It is programmer friendly language, It is easy to understand, It need compiler or interpreter for translation | It is a machine friendly language, It is tough to understand, It needs assembler for translation |
  
+### 2. What does a translator do?
+Translate the high-level language and assembler languages into machine code for a computer system understan it.
+
+### 3. Identify two types of translators that can turn high-level languages into machine code?
+Interpreters and compilers
+
