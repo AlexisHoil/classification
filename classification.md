@@ -1,4 +1,4 @@
-# classification
+# Classification of Programming Languages
 
  
 
@@ -13,3 +13,8 @@ Machine code is the code executed by the CPU and consists only as binary digits 
 Phyton, C++, Java, Visual Basic
 
 
+## Gold- Answer the following questions
+### 1.Describe three differences between low-level language and high-level languages?
+|High-Level languague|Low-level languague|
+|It is programmer friendly language, It is easy to understand, It need compiler or interpreter for translation|It is a machine friendly language, It is tough to understand, It needs assembler for translation|
+ 
