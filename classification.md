@@ -25,3 +25,23 @@ Translate the high-level language and assembler languages into machine code for 
 ### 3. Identify two types of translators that can turn high-level languages into machine code?
 Interpreters and compilers
 
+
+## Platinum- Exam questions
+### 1.What is the difference between an interpreter and a compiler?
+The compiler translate the whole program to produce the executable object code and the interpreter translate and executes one line at a time, this makes that the compiler execute programs faster.
+
+### 2. What is assembly language?
+The assembly language is a type of language of low-level, it is slightly more user friendly but is still too technical for most people to understan and only specialist programmers can work using it.
+
+### 3.A developer is writing a program.
+	*a) The program is written in a high-level language and it is the tranlated into machine code. Describe two diffferences between high-level language and machine code?*
+
+The high-level language are instructions that use common English language and machine code are written in binary code(1's and 0's), also the high -level language need to be translate into machine code for a computer system to understand it.
+	
+	* b) One type of translator is an interpreter. *
+		**i)Describe how an interpreter translates high-level language programs into machine code?**
+		First the interpreter is a software apart, when the program has been created, the program need to be run with the interpreter and it have to translate the source code into machine code one command line at a time inmediately excutes them.
+ 
+		**ii) State the name of a different type of translator that can be used to translate high-level code into machine code?
+		Compiler
+
