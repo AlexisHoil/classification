@@ -37,7 +37,7 @@ The assembly language is a type of language of low-level, it is slightly more us
 
   **a) The program is written in a high-level language and it is the tranlated into machine code. Describe two diffferences between high-level language and machine code?**
 
-    The high-level language are instructions that use common English language and machine code are written in binary code(1's and 0's), also the high -level language need to be translate into machine code for a computer system to understand it.
+*The high-level language are instructions that use common English language and machine code are written in binary code(1's and 0's), also the high -level language need to be translate into machine code for a computer system to understand it.*
 	
   **b) One type of translator is an interpreter.**
    **i)** Describe how an interpreter translates high-level language programs into machine code?
