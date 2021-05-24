@@ -40,6 +40,7 @@ The assembly language is a type of language of low-level, it is slightly more us
 *The high-level language are instructions that use common English language and machine code are written in binary code(1's and 0's), also the high -level language need to be translate into machine code for a computer system to understand it.*
 	
   **b) One type of translator is an interpreter.**
+  
    **i)** Describe how an interpreter translates high-level language programs into machine code?
   *First the interpreter is a software apart, when the program has been created, the program need to be run with the interpreter and it have to translate the source code into machine code one command line at a time inmediately excutes them.*
  
